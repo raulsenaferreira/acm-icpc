@@ -1,4 +1,4 @@
-[![acm-icpc](http://acm.ashland.edu/Images/master.gif "ACM-ICPC ECNA")](http://acm.ashland.edu/)
+![acm-icpc logo](https://cloud.githubusercontent.com/assets/497458/12186297/5296b5a8-b599-11e5-87b0-014c7b01b9db.png)
 
 ### What is this?
 
@@ -14,26 +14,11 @@ Post your solutions, libraries, guides, tutorials, or anything you think is help
 2. Read the **[wiki](https://github.com/BrockCSC/acm-icpc/wiki)**. Anyone can edit the wiki.
 
 #### Contributing
-- Members of the *BrockCSC* organization have push and pull access, so you just need to clone this repo.
+- Members of the *BrockCSC* organization have push and pull access and just need to clone this repo.
 - Non-members will have to fork it and send a pull request.
-- If you have no idea what any of that means, I suggest you read through the tutorials at http://help.github.com.
-- Please
-  - Place your solution in the appropriate location
-  - Add a README that explains the strategy you used to solve the problem
+- If you have no idea what any of that means, read through the tutorials at http://help.github.com.
+- Bonus points if you explain how you solved the problem
 
-
-It's generally neater to create a new branch for a new task and then merge it with the master branch upon completion.
-
-For example, if you want to work on problem #101:
-
-```
-$ git checkout -b 101
-... code up a solution and place it in the appropriate directory
-$ git commit -am 'Add solution for 101'
-$ git checkout master
-$ git merge 101
-$ git push origin
-```
 
 ### Java Tips
 
